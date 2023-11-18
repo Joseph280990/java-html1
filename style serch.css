@@ -1,0 +1,84 @@
+
+img {position: absolute;
+    top: 21%;
+    left: 42%;
+    width:220px;
+    height:100px;}
+input {
+    text-indent: 50px;
+    border: 2px solid #ccc;
+    border-radius: 30px;
+    height: 35px;
+    width: 33%;
+    
+    position: absolute;
+        top: 37%;
+        left: 33%;
+}
+[type="submit"]
+
+{text-indent: 1px;
+  border: 2px solid #ccc; 
+  border-radius: 5px;
+  height: 30px;
+  width: 10%;
+  position: absolute;
+  top: 47%;
+  left: 40%;}
+
+[value="I will be lucky"]
+{text-indent: 1px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  height: 30px;
+  width: 10%;
+  position: absolute;
+  top: 47%;
+  left: 51%;
+}
+
+ [ href="loogle imagi.html"] 
+{position: absolute;
+    top: 2%;
+    left: 83%; 
+    color: blue;
+    text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+    border: 1px solid rgb(255, 255, 255,0.75);
+  padding: 4px;
+background-color: rgb(255, 255, 255,0.75);
+border-radius: 24px
+
+    }
+ [href="super search.html"]
+    {position: absolute;
+        top: 2%;
+        left: 90%; 
+  color: blue;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: none;
+  border: 1px solid rgb(255, 255, 255,0.75);
+  padding: 4px;
+background-color: rgb(255, 255, 255,0.75);
+border-radius: 24px}
+  
+
+  body {
+    background-image: url('https://img.freepik.com/darmowe-zdjecie/dynie-na-jesien_24837-456.jpg?w=996&t=st=1696692501~exp=1696693101~hmac=8d6a8580ee541ce3f1c791b5afa9f20af3daa4e9b5790b10e301ac66bdd7b3a7');
+    background-size: cover;
+    background-repeat: no-repeat; 
+        background-attachment: fixed}
+
+        .highlight-on-hover {
+          background-color: #f3f3d0; 
+          color: #000; 
+          cursor: pointer; 
+          padding: 5px;
+          border: none;  
+        }
+        .highlight-on-hover:hover {
+          background-color:rgb(120, 120, 240)}
+
+  .a{position: absolute;
+    top: 56%;
+    left: 45%;}

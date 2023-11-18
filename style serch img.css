@@ -1,0 +1,46 @@
+img {position: absolute;
+    top: 21%;
+    left: 42%;
+    width:220px;
+    height:100px;}
+input {
+    text-indent: 50px;
+    border: 2px solid #ccc;
+    border-radius: 30px;
+    height: 35px;
+    width: 33%;
+    
+    position: absolute;
+        top: 37%;
+        left: 33%;
+}
+ [ href="super search.html"] 
+{position: absolute;
+    top: 2%;
+    left: 90%; 
+    color: blue;
+    text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+    border: 1px solid rgba(241, 144, 240, 0.75);
+  padding: 4px;
+background-color: rgba(243, 120, 208, 0.75);
+border-radius: 24px
+    }
+ [href="screen size.html"]
+    {position: absolute;
+        top: 2%;
+        left: 86%; 
+  color: blue;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: none;
+  border: 1px solid rgb(243, 120, 208, 0.75);
+  padding: 4px;
+background-color: rgb(243, 120, 208, 0.75);
+border-radius: 24px}
+  
+
+  body {
+    background-image: url('https://img.freepik.com/darmowe-zdjecie/obraz-przedstawiajacy-gorskie-jezioro-z-gora-w-tle_188544-9126.jpg?w=1060&t=st=1696695140~exp=1696695740~hmac=a1e6d7217060619a8ad5055c786a42c45889be0680c77e3a7d12c79be985739f');
+    background-size: cover;
+    background-repeat: no-repeat; 
+        background-attachment: fixed}
